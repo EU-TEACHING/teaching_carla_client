@@ -1,0 +1,1 @@
+automatic_control.py --filter vehicle.tesla.* --rabbitmq_host 172.17.176.221
